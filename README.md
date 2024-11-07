@@ -17,15 +17,10 @@ Cloud: Google Cloud Platform (Currently exploring)
 Tools: Git, Jupyter Notebooks, FlutterFlow
 
 👨‍🔬 Projects
-Depression Detection
-Description: Detects depression levels based on textual input using NLP techniques.
 Technologies Used: DistilBERT, custom classification algorithms.
 Temperature Prediction
 Description: A time series forecasting model that predicts temperature changes.
 Technologies Used: TensorFlow, Python.
-Chatbot in FlutterFlow
-Description: A chatbot model built from scratch on FlutterFlow to identify user mood.
-Technologies Used: FlutterFlow, custom NLP model.
 
 📫 Connect with Me
 LinkedIn: https://www.linkedin.com/in/prachi-pandey-b7223b231/
