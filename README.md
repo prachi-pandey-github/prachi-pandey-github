@@ -1,4 +1,5 @@
 Hi there! 👋 I'm Prachi Pandey
+
 👨‍💻 About Me
 I’m a passionate Machine Learning enthusiast currently in my 3rd semester studying Computer Science. 
 I'm diving deep into the world of AI, with interests in natural language processing, computer vision, and time series analysis.
