@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prachi</h1>
 <h3 align="center">A passionate Machine Learning enthusiast from India.</h3>
 
-<img align="centre" alt="coding" width = "1200" height = "300" src = C:\Users\dell\Desktop\New folder\Portfolio\vedio\back.mp4>
+<img align="centre" alt="coding" width = "1200" height = "300" src = "graphic_01-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachi-pandey-github&label=Profile%20views&color=0e75b6&style=flat" alt="prachi-pandey-github" /> </p>
 
