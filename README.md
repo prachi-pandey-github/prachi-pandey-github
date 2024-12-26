@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **prachipandeyk85@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d1z9kSw2lPaKGAJ9XZX5QHRXIOWg2waG/view?usp=drive_link](https://drive.google.com/file/d/1d1z9kSw2lPaKGAJ9XZX5QHRXIOWg2waG/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1d1z9kSw2lPaKGAJ9XZX5QHRXIOWg2waG/view?usp=drive_link](https://drive.google.com/file/d/1grp3fL3THf6gKC0t2_NNIQSFG-OYaecv/view?usp=drive_link)
 
 - ⚡ Fun fact **Research Enthusiast: Constantly asking big questions like ‘What if…?’ and diving into data to find out. 📈🔍**
 
