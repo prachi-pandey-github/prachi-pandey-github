@@ -7,8 +7,8 @@
 
 
 
-- 🔭 I’m currently working on **Depression Detection Model: A research project involving text classification for depression severity prediction using survey and social media data.**
-
+- 🔭 Currently working on:
+Building end-to-end AI and ML systems, including document intelligence pipelines, data extraction workflows, and production-grade APIs.
 - 🌱 I’m currently learning **about NLP **
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
