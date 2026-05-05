@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 BCA Student passionate about **AI, ML, and Data Science**
+- 🎓 Passionate about **AI, ML, and Data Science**
 - 🤖 Building projects in **LLMs, NLP, and Automation**
 - 📊 Interested in **Data Analytics & Statistical Modeling**
 - ⚡ Currently working on **AI-powered apps & tools**
@@ -37,10 +37,6 @@
 ### 🔹 Stock Market Dashboard (TSLA)
 - Interactive OHLCV visualization
 - AI chatbot for querying stock insights
-
-### 🔹 Synthetic Data Generator
-- Uses CTGAN, TVAE, Gaussian Copula
-- Built with Streamlit for data simulation
 
 ---
 
