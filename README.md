@@ -1,92 +1,76 @@
-<h1 align="center">Hi 👋, I'm Prachi</h1>
-<h3 align="center">A passionate AI enthusiast from India.</h3>
+<h1 align="center">Hi 👋, I'm Prachi Pandey</h1>
+<h3 align="center">AI & Machine Learning Enthusiast | Python Developer | Builder</h3>
 
-<img align="right" alt="coding" width = "400" height = "200" src = "graphic_01-2.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prachi-pandey-github&label=Profile%20views&color=0e75b6&style=flat" alt="prachi-pandey-github" /> </p>
+## 🚀 About Me
+- 🎓 BCA Student passionate about **AI, ML, and Data Science**
+- 🤖 Building projects in **LLMs, NLP, and Automation**
+- 📊 Interested in **Data Analytics & Statistical Modeling**
+- ⚡ Currently working on **AI-powered apps & tools**
+- 📚 Learning: **LangChain, Advanced ML, System Design**
 
+---
 
+## 🛠️ Tech Stack
 
-- 🔭 Currently working on:
-Building end-to-end AI and ML systems, including document intelligence pipelines, data extraction workflows, and production-grade APIs.
-- 👯 I’m looking to collaborate on **AI and Machine Learning Projects**
+### 💻 Languages
+- Python 🐍
+- SQL
+- Java (Basics)
 
-- 💬 Ask me about **AI, Data Science, or any cool insights hiding in plain sight! 📊🕵️‍♂️**
+### 🤖 AI / ML
+- Scikit-learn
+- Pandas, NumPy
+- NLP
+- Regression Models
+- Statistical Analysis
 
-- 📫 How to reach me **prachipandeyk85@gmail.com**
+### ⚙️ Tools & Frameworks
+- Streamlit
+- Flask
+- React (Learning)
+- Git & GitHub
+- Playwright
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d1z9kSw2lPaKGAJ9XZX5QHRXIOWg2waG/view?usp=drive_link](https://drive.google.com/file/d/1grp3fL3THf6gKC0t2_NNIQSFG-OYaecv/view?usp=drive_link)
+---
 
-- ⚡ Fun fact **Research Enthusiast: Constantly asking big questions like ‘What if…?’ and diving into data to find out. 📈🔍**
+## 📌 Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/prachi-pandey-b7223b231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachi pandey" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/prachikpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/prachikpandey" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prachi__pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prachi__pandey" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/prachipandeyk85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/prachipandeyk85/" height="30" width="40" /></a>
+### 🔹 AI Depression Detection System
+- ML-based system to classify depression levels using PHQ-9
+- Includes data preprocessing, model training & evaluation
+
+### 🔹 Stock Market Dashboard (TSLA)
+- Interactive OHLCV visualization
+- AI chatbot for querying stock insights
+
+### 🔹 Synthetic Data Generator
+- Uses CTGAN, TVAE, Gaussian Copula
+- Built with Streamlit for data simulation
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prachi-pandey-github&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-pandey-github&theme=radical" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>  
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a> 
- 
+---
 
-</p>
+## 🌐 Connect With Me
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
+- 🧠 Portfolio: (Add if you have one)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachi-pandey-github&show_icons=true&locale=en&layout=compact" alt="prachi-pandey-github" />
-</p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachi-pandey-github&show_icons=true&locale=en" alt="prachi-pandey-github" /></p>
+## 💡 Fun Fact
+> I love turning ideas into real-world AI applications 🚀
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-pandey-github&" alt="prachi-pandey-github" /></p>
+---
 
-
+⭐️ *Feel free to explore my repositories and connect!*
