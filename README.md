@@ -26,13 +26,6 @@
 - Regression Models
 - Statistical Analysis
 
-### ⚙️ Tools & Frameworks
-- Streamlit
-- Flask
-- React (Learning)
-- Git & GitHub
-- Playwright
-
 ---
 
 ## 📌 Projects
