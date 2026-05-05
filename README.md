@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prachi</h1>
-<h3 align="center">A passionate Machine Learning enthusiast from India.</h3>
+<h3 align="center">A passionate AI enthusiast from India.</h3>
 
 <img align="right" alt="coding" width = "400" height = "200" src = "graphic_01-2.gif">
 
@@ -9,13 +9,9 @@
 
 - 🔭 Currently working on:
 Building end-to-end AI and ML systems, including document intelligence pipelines, data extraction workflows, and production-grade APIs.
-- 🌱 I’m currently learning **about NLP **
+- 👯 I’m looking to collaborate on **AI and Machine Learning Projects**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
-
-- 🤝 I’m looking for help with **NLP.**
-
-- 💬 Ask me about **Machine Learning, Data Science, or any cool insights hiding in plain sight! 📊🕵️‍♂️**
+- 💬 Ask me about **AI, Data Science, or any cool insights hiding in plain sight! 📊🕵️‍♂️**
 
 - 📫 How to reach me **prachipandeyk85@gmail.com**
 
