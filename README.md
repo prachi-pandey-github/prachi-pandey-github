@@ -56,15 +56,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prachi-pandey-github&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-pandey-github&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=prachi-pandey-github&theme=radical" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- 🧠 Portfolio: (Add if you have one)
+- 📧 Email: helloprachipandey@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/prachi-pandey-b7223b231/  
 
 ---
 
