@@ -54,8 +54,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prachi-pandey-github&show_icons=true&theme=radical)
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=prachi-pandey-github&theme=radical"/>
 </p>
 
