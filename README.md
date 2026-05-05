@@ -5,10 +5,9 @@
 
 ## 🚀 About Me
 - 🎓 Passionate about **AI, ML, and Data Science**
-- 🤖 Building projects in **LLMs, NLP, and Automation**
-- 📊 Interested in **Data Analytics & Statistical Modeling**
+- 🤖 Building projects in **LLMs and Automation**
+- 📊 Interested in **AI Systems, Machine Learning & Predictive Modeling**
 - ⚡ Currently working on **AI-powered apps & tools**
-- 📚 Learning: **LangChain, Advanced ML, System Design**
 
 ---
 
